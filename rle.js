@@ -7,5 +7,4 @@ function rle(str) {
 }
 
 
-
 console.log(rle('WWWWWWWWWBBBWWWWWWWWWWWWWWWWWWWWWWWBWWWWWWWWWWWWWW'));
