@@ -11,5 +11,4 @@ function rle(str) {
     return result;
 }
 
-
-console.log(rle('WWWWWWWWWBBBWWWWWWWWWWWWWWWWWWWWWWWBWWWWWWWWWWWWWW'));
+console.log(rle('sssssssaaaaaaaaaaaaddddddddddddddfkkkkkkkkkkkkkkwhgvvvvvvvvvvvvvvvv'));
